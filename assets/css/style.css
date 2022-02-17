@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+}
+body{
+
+}
+.SGA_formed_section{
+    overflow-x: hidden;
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.image img{
+    border-radius: 10px;
+    border: 5px solid black;
+}
+
+.product_image{
+    border-radius: 10px;
+    border: 5px solid black;
+    height: 70%;
+    width: 70%;
+    margin-bottom: 4%;
+}
+.heading{
+    margin-bottom: 4%;
+}
+.product_desc p{
+    margin-top: 2%;
+}
+.navbar-tabs-style{
+    font-size: larger; 
+    font-weight: 600;
+}
+.silder-section-style{
+    overflow-x: hidden;
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.section-blogs{
+    overflow-x: hidden;
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.blog-title{
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.blog-title h2{
+    padding: 5px;
+}
+
+footer{
+    overflow-x: hidden;
+    /* margin-top: 3%; */
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.blog-link{
+    color: black;
+    text-decoration: none;
+}
+.footer_links a{
+    color: black;
+    text-decoration: none;
+}
